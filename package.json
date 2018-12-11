@@ -1,5 +1,6 @@
 {
     "name": "bootstrap-magnify",
     "version": "1.0.0",
-    "description": ""
+    "description": "",
+	"main": "bootstrap-magnify.min.js"
 }
