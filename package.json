@@ -2,5 +2,5 @@
     "name": "bootstrap-magnify",
     "version": "1.0.0",
     "description": "",
-	"main": "bootstrap-magnify.min.js"
+    "main": "bootstrap-magnify.min.js"
 }
